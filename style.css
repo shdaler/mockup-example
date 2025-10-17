@@ -1,0 +1,15 @@
+.cta-primary {
+  background: #ff6b35;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: 500;
+}
+
+.cta-secondary {
+  border: 2px solid #0b6e4f;
+  color: #0b6e4f;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-weight: 500;
+}
